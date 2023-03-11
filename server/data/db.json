@@ -1,0 +1,148 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "image": "https://conteudo.imguol.com.br/c/entretenimento/0d/2021/05/11/prato-de-arroz-e-feijao-1620764972485_v2_1x1.jpg",
+        "name": "Salada de Jacaré",
+        "descrition": "Mix de folhas coloridas, tomate cereja,croutôns, palmito e lascas de jacaré salteadas, regadas ao molho balsâmico, oliva e mel.",
+        "price": 49,
+        "timeDone": "10 min",
+        "section": "Entradas"
+      },
+      {
+        "id": 2,
+        "image": "https://conteudo.imguol.com.br/c/entretenimento/0d/2021/05/11/prato-de-arroz-e-feijao-1620764972485_v2_1x1.jpg",
+        "name": "Salada de Faisão",
+        "descrition": "Mix de folhas, muzzarela de búfala e tomates secos com pequenos pedaços de faisão grelhados ao vinagrete.",
+        "price": 65,
+        "timeDone": "15 min",
+        "section": "Entradas"
+      },
+      {
+        "id": 3,
+        "image": "https://conteudo.imguol.com.br/c/entretenimento/0d/2021/05/11/prato-de-arroz-e-feijao-1620764972485_v2_1x1.jpg",
+        "name": "Figos da montanha",
+        "descrition": "Figos naturais recheados com queijo de cabra e presunto parma, gratinados com queijo parmesão. Acompanha salada verde.",
+        "price": 55,
+        "timeDone": "25 min",
+        "section": "Entradas"
+      },
+      {
+        "id": 4,
+        "image": "https://conteudo.imguol.com.br/c/entretenimento/0d/2021/05/11/prato-de-arroz-e-feijao-1620764972485_v2_1x1.jpg",
+        "name": "Champignon D'ávila",
+        "descrition": "Champignon fresco gigante produzidos na Linha Ávila no interior de Gramado, recheado com creme de javali, gratinado com queijo parmesão.",
+        "price": 65,
+        "timeDone": "30 min",
+        "section": "Entradas"
+      },
+      {
+        "id": 5,
+        "image": "https://conteudo.imguol.com.br/c/entretenimento/0d/2021/05/11/prato-de-arroz-e-feijao-1620764972485_v2_1x1.jpg",
+        "name": "Brandade de Bacalhau",
+        "descrition": "Aveludada brandade de bacalhau servida em crocante de sementes, delicada base de azeite de rúcula e suas folhas com farofinha de azeitonas.",
+        "price": 65,
+        "timeDone": "30 min",
+        "section": "Entradas"
+      },
+      {
+        "id": 6,
+        "image": "https://conteudo.imguol.com.br/c/entretenimento/0d/2021/05/11/prato-de-arroz-e-feijao-1620764972485_v2_1x1.jpg",
+        "name": "Sopa Gratinada de Cebola",
+        "descrition": "Tradicional sopa de cebola à francesa gratinada com pão e queijo gruyerè.",
+        "price": 64,
+        "timeDone": "20 min",
+        "section": "Entradas"
+      },
+      {
+        "id": 7,
+        "image": "https://conteudo.imguol.com.br/c/entretenimento/0d/2021/05/11/prato-de-arroz-e-feijao-1620764972485_v2_1x1.jpg",
+        "name": "Filé Tapera",
+        "descrition": "Medalhão de filé mignon acompanhado de massa farfalle ao molho de queijos.",
+        "price": 142,
+        "timeDone": "40 min",
+        "section": "Principais"
+      },
+      {
+        "id": 8,
+        "image": "https://conteudo.imguol.com.br/c/entretenimento/0d/2021/05/11/prato-de-arroz-e-feijao-1620764972485_v2_1x1.jpg",
+        "name": "Cordeiro Lajeana",
+        "descrition": "Carré grelhado com delicado molho de três pimentas, batata suíça e banana caramelada.",
+        "price": 169,
+        "timeDone": "50 min",
+        "section": "Principais"
+      },
+      {
+        "id": 9,
+        "image": "https://conteudo.imguol.com.br/c/entretenimento/0d/2021/05/11/prato-de-arroz-e-feijao-1620764972485_v2_1x1.jpg",
+        "name": "Copa Lombo",
+        "descrition": "Ostentosa porção de copa lombo de porco Duroc marinada em tempero clássico La Caceria escoltado de aveludado purê de maçãs e abóbora cabotia assada em manteiga de mix de pimenta.",
+        "price": 172,
+        "timeDone": "50 min",
+        "section": "Principais"
+      },
+      {
+        "id": 10,
+        "image": "https://conteudo.imguol.com.br/c/entretenimento/0d/2021/05/11/prato-de-arroz-e-feijao-1620764972485_v2_1x1.jpg",
+        "name": "Risoto Araripe",
+        "descrition": "Risoto cremoso de coelho temperado com molho de caças, nozes e cogumelos cultivados no interior de Gramado.",
+        "price": 134,
+        "timeDone": "40 min",
+        "section": "Principais"
+      },
+      {
+        "id": 11,
+        "image": "https://conteudo.imguol.com.br/c/entretenimento/0d/2021/05/11/prato-de-arroz-e-feijao-1620764972485_v2_1x1.jpg",
+        "name": "Risoto Araripe",
+        "descrition": "Risoto cremoso de coelho temperado com molho de caças, nozes e cogumelos cultivados no interior de Gramado.",
+        "price": 134,
+        "timeDone": "40 min",
+        "section": "Principais"
+      },
+      {
+        "id": 12,
+        "image": "https://conteudo.imguol.com.br/c/entretenimento/0d/2021/05/11/prato-de-arroz-e-feijao-1620764972485_v2_1x1.jpg",
+        "name": "Risoto Pântano & Mar",
+        "descrition": "Com lascas de jacaré e imponentes camarões, servidos em base de risoto clássico com açafrão, cogumelos caramelizados e pó de bottarga.",
+        "price": 134,
+        "timeDone": "40 min",
+        "section": "Principais"
+      },
+      {
+        "id": 13,
+        "image": "https://conteudo.imguol.com.br/c/entretenimento/0d/2021/05/11/prato-de-arroz-e-feijao-1620764972485_v2_1x1.jpg",
+        "name": "Macarrão Serra Grande",
+        "descrition": "Tradicional macarrão caseiro italiano produzido em nossa região servido ao molho de perdizes marinadas cozidas lentamente na panela. O clássico dos caçadores.",
+        "price": 165,
+        "timeDone": "30 min",
+        "section": "Principais"
+      },
+      {
+        "id": 14,
+        "image": "https://conteudo.imguol.com.br/c/entretenimento/0d/2021/05/11/prato-de-arroz-e-feijao-1620764972485_v2_1x1.jpg",
+        "name": "Strudel da Montanha",
+        "descrition": "Torta de maçã e nozes com calda de pimenta, alecrim e manjericão com sorvete artesanal de creme.",
+        "price": 45,
+        "timeDone": "20 min",
+        "section": "Sobremesas"
+      },
+      {
+        "id": 15,
+        "image": "https://conteudo.imguol.com.br/c/entretenimento/0d/2021/05/11/prato-de-arroz-e-feijao-1620764972485_v2_1x1.jpg",
+        "name": "Zabaione de Frutas Silvestres",
+        "descrition": "Frutas silvestres ao creme de ovos com canela, aromatizado com vinho licoroso.",
+        "price": 49,
+        "timeDone": "20 min",
+        "section": "Sobremesas"
+      },
+      {
+        "id": 16,
+        "image": "https://conteudo.imguol.com.br/c/entretenimento/0d/2021/05/11/prato-de-arroz-e-feijao-1620764972485_v2_1x1.jpg",
+        "name": "Pecan Pie",
+        "descrition": "Deliciosa torta de nozes com sorvete artesanal de creme.",
+        "price": 49,
+        "timeDone": "20 min",
+        "section": "Sobremesas"
+      }
+    ]
+  }

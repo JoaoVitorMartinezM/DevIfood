@@ -1,0 +1,26 @@
+nav {
+
+    min-height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: yellow;
+    background-color: rgb(78, 76, 76);
+    padding: 0 50px;
+}
+
+nav span {
+    display: flex;
+    align-items: center;
+    font-size: 36px;
+}
+
+
+
+nav span img{
+    width: 50px;
+}
+
+nav span a {
+    color: yellow;
+}

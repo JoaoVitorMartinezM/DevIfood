@@ -1,0 +1,36 @@
+.card{
+    background-color: #c1c1c1;
+    width: 398px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    /* gap: 10px; */
+    
+}
+
+.card div.content{
+
+    height: 100%;
+    padding: 0 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;;
+}
+
+.card .content div{
+
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.card img{
+    width: 398px;
+}
+
+.card-selected{
+    border: 2px solid #ffb500;
+}
